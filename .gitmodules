@@ -1,0 +1,120 @@
+[submodule "ofxMSAControlFreak"]
+	path = ofxMSAControlFreak
+	url = https://github.com/memo/ofxMSAControlFreak
+[submodule "ofxEtherdream"]
+	path = ofxEtherdream
+	url = https://github.com/memo/ofxEtherdream
+[submodule "ofxMSAControlFreakGui"]
+	path = ofxMSAControlFreakGui
+	url = https://github.com/memo/ofxMSAControlFreakGui
+[submodule "ofxIlda"]
+	path = ofxIlda
+	url = https://github.com/memo/ofxIlda
+[submodule "ofxMSAInteractiveObject"]
+	path = ofxMSAInteractiveObject
+	url = https://github.com/memo/ofxMSAInteractiveObject
+[submodule "ofxMSAOpenCL"]
+	path = ofxMSAOpenCL
+	url = https://github.com/memo/ofxMSAOpenCL
+[submodule "ofxMSAPingPong"]
+	path = ofxMSAPingPong
+	url = https://github.com/memo/ofxMSAPingPong
+[submodule "ofxMouseAutoHider"]
+	path = ofxMouseAutoHider
+	url = https://github.com/memo/ofxMouseAutoHider
+[submodule "ofxMSAFluid"]
+	path = ofxMSAFluid
+	url = https://github.com/memo/ofxMSAFluid
+[submodule "ofxARDrone"]
+	path = ofxARDrone
+	url = https://github.com/memo/ofxARDrone
+[submodule "ofxSimpleGuiToo"]
+	path = ofxSimpleGuiToo
+	url = https://github.com/memo/ofxSimpleGuiToo
+[submodule "ofxMSAObjCPointer"]
+	path = ofxMSAObjCPointer
+	url = https://github.com/memo/ofxMSAObjCPointer
+[submodule "ofxMSACore"]
+	path = ofxMSACore
+	url = https://github.com/memo/ofxMSACore
+[submodule "ofxMSAOrderedPointerMap"]
+	path = ofxMSAOrderedPointerMap
+	url = https://github.com/memo/ofxMSAOrderedPointerMap
+[submodule "ofxMSAPhysics"]
+	path = ofxMSAPhysics
+	url = https://github.com/memo/ofxMSAPhysics
+[submodule "ofxMSAInterpolator"]
+	path = ofxMSAInterpolator
+	url = https://github.com/memo/ofxMSAInterpolator
+[submodule "ofxMSAPerlin"]
+	path = ofxMSAPerlin
+	url = https://github.com/memo/ofxMSAPerlin
+[submodule "ofxMSADataProtector"]
+	path = ofxMSADataProtector
+	url = https://github.com/memo/ofxMSADataProtector
+[submodule "ofxMSAControlFreakMidi"]
+	path = ofxMSAControlFreakMidi
+	url = https://github.com/memo/ofxMSAControlFreakMidi
+[submodule "ofxMSAControlFreakOsc"]
+	path = ofxMSAControlFreakOsc
+	url = https://github.com/memo/ofxMSAControlFreakOsc
+[submodule "ofxMSALividOhmRGB"]
+	path = ofxMSALividOhmRGB
+	url = https://github.com/memo/ofxMSALividOhmRGB
+[submodule "ofxARDroneOscBridge"]
+	path = ofxARDroneOscBridge
+	url = https://github.com/memo/ofxARDroneOscBridge
+[submodule "ofxMSABPMTapper"]
+	path = ofxMSABPMTapper
+	url = https://github.com/memo/ofxMSABPMTapper
+[submodule "ofxMSATimer"]
+	path = ofxMSATimer
+	url = https://github.com/memo/ofxMSATimer
+[submodule "ofxMSAShape3D"]
+	path = ofxMSAShape3D
+	url = https://github.com/memo/ofxMSAShape3D
+[submodule "ofxMSAStereoSolver"]
+	path = ofxMSAStereoSolver
+	url = https://github.com/memo/ofxMSAStereoSolver
+[submodule "ofxMSABumblebeeGrabber"]
+	path = ofxMSABumblebeeGrabber
+	url = https://github.com/memo/ofxMSABumblebeeGrabber
+[submodule "ofxMSATouchTracker"]
+	path = ofxMSATouchTracker
+	url = https://github.com/memo/ofxMSATouchTracker
+[submodule "ofxMSATouch"]
+	path = ofxMSATouch
+	url = https://github.com/memo/ofxMSATouch
+[submodule "ofxMSAThreadedImageSaver"]
+	path = ofxMSAThreadedImageSaver
+	url = https://github.com/memo/ofxMSAThreadedImageSaver
+[submodule "ofxMSAMidiParam"]
+	path = ofxMSAMidiParam
+	url = https://github.com/memo/ofxMSAMidiParam
+[submodule "ofxMSAVideoInput"]
+	path = ofxMSAVideoInput
+	url = https://github.com/memo/ofxMSAVideoInput
+[submodule "ofxMSAParamsCocoa"]
+	path = ofxMSAParamsCocoa
+	url = https://github.com/memo/ofxMSAParamsCocoa
+[submodule "ofxMSAImageMultiplexer"]
+	path = ofxMSAImageMultiplexer
+	url = https://github.com/memo/ofxMSAImageMultiplexer
+[submodule "ofxMSAFluidGuiManager"]
+	path = ofxMSAFluidGuiManager
+	url = https://github.com/memo/ofxMSAFluidGuiManager
+[submodule "ofxMSADirManager"]
+	path = ofxMSADirManager
+	url = https://github.com/memo/ofxMSADirManager
+[submodule "ofxMSABulletPhysics"]
+	path = ofxMSABulletPhysics
+	url = https://github.com/memo/ofxMSABulletPhysics
+[submodule "ofxMSACocoa"]
+	path = ofxMSACocoa
+	url = https://github.com/memo/ofxMSACocoa
+[submodule "ofxMSAQuartzComposition"]
+	path = ofxMSAQuartzComposition
+	url = https://github.com/memo/ofxMSAQuartzComposition
+[submodule "ofxMSADataPathManager"]
+	path = ofxMSADataPathManager
+	url = https://github.com/memo/ofxMSADataPathManager
