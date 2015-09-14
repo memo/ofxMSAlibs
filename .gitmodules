@@ -118,3 +118,6 @@
 [submodule "ofxMSADataPathManager"]
 	path = ofxMSADataPathManager
 	url = https://github.com/memo/ofxMSADataPathManager
+[submodule "ofxMSAImageFX"]
+	path = ofxMSAImageFX
+	url = https://github.com/memo/ofxMSAImageFX
