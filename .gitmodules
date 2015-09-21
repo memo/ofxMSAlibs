@@ -121,3 +121,6 @@
 [submodule "ofxMSAImageFX"]
 	path = ofxMSAImageFX
 	url = https://github.com/memo/ofxMSAImageFX
+[submodule "ofxMSAMotionTracker"]
+	path = ofxMSAMotionTracker
+	url = https://github.com/memo/ofxMSAMotionTracker
