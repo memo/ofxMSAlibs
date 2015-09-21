@@ -124,3 +124,24 @@
 [submodule "ofxMSAMotionTracker"]
 	path = ofxMSAMotionTracker
 	url = https://github.com/memo/ofxMSAMotionTracker
+[submodule "ofxMSASystemUtilsOld"]
+	path = ofxMSASystemUtilsOld
+	url = https://github.com/memo/ofxMSASystemUtilsOld
+[submodule "ofxMSAChipmunk"]
+	path = ofxMSAChipmunk
+	url = https://memo@github.com/memo/ofxMSAChipmunk.git
+[submodule "ofxMSADelaunay"]
+	path = ofxMSADelaunay
+	url = https://memo@github.com/memo/ofxMSADelaunay.git
+[submodule "ofxMSAfft"]
+	path = ofxMSAfft
+	url = https://memo@github.com/memo/ofxMSAfft.git
+[submodule "ofxMSAGridWarper"]
+	path = ofxMSAGridWarper
+	url = https://memo@github.com/memo/ofxMSAGridWarper.git
+[submodule "ofxMSAGuiWebServer"]
+	path = ofxMSAGuiWebServer
+	url = https://memo@github.com/memo/ofxMSAGuiWebServer.git
+[submodule "ofxMSAOpenCL_CV"]
+	path = ofxMSAOpenCL_CV
+	url = https://memo@github.com/memo/ofxMSAOpenCL_CV.git
